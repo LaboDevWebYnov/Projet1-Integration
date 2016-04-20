@@ -57,3 +57,21 @@ li {
     margin-top: -50px;
     padding-left: 50px;
 }
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+/* Mise en page texte */
+
+h2 {
+    text-decoration: underline;
+    color: black;
+}
+
+.underline:hover {
+    text-decoration: underline;
+    color: blue;
+
+}

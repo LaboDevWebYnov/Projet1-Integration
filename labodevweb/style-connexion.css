@@ -30,6 +30,7 @@ li {
     border-radius: 7px;
     width: 600px;
     margin-left: 200px;
+
 }
 
 .nav {
@@ -58,34 +59,18 @@ li {
 }
 
 #navright {
-    margin-top: -50px;
-    padding-left: 50px;
-}
-
-img {
-    width: 100%;
-    height: auto;
-}
-
-/* Mise en page texte */
-
-h2 {
-    text-decoration: underline;
-    color: black;
-}
-
-.underline:hover {
-    text-decoration: underline;
-    color: blue;
     margin-left: 572px;
     position: absolute;
 }
 
 #navleft{
+    position: absolute;
     margin-left: 50px;
+
 }
 
 #search-button{
     height: 50px;
     border-radius: 5px;
 }
+

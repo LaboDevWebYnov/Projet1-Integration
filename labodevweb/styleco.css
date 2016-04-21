@@ -134,3 +134,20 @@ color: red;
 #left{
     margin-top: 20px;
 }
+
+#back-top{
+    position: fixed;
+    width: 150px;
+    height: 60px;
+    background-color: #0278ae;
+    margin-left: 1150px;
+    margin-top: 480px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10
+}
+
+.glyphicon-menu-up{
+    position: relative;
+    color: white;
+}
